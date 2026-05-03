@@ -1,4 +1,4 @@
-# Vela — Business Landing Page
+# quick recovery llc — Business Landing Page
 
 A full-stack business landing page built with **React**, **Node.js (Express)**, and **MongoDB**.
 
